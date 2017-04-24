@@ -1,6 +1,6 @@
 # Interactive Computing with Jupyter and Friends
 
-**March 30th**
+**April 25th**
 
 Sponsored by Home Away and data.world. Many Thanks!!!
 
